@@ -1,6 +1,6 @@
 # Site settings
 title: "Sachindranath Resume"
-description: "A resume template Sachindranath."
+description: "A resume template for Sachindranath."
 
 # Build settings
 markdown: kramdown
